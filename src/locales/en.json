@@ -1,0 +1,48 @@
+{
+  "onboarding": {
+    "title": "Welcome to Kawaii-Kiler",
+    "subtitle": "Manage your home shopping and pantry together easily.",
+    "continue": "Continue"
+  },
+  "paywall": {
+    "title": "Go Premium",
+    "subtitle": "Access all features and remove ads.",
+    "weekly": "Weekly Plan",
+    "yearly": "Yearly Plan",
+    "continue": "Continue",
+    "skip": "Skip"
+  },
+  "tabs": {
+    "shopping": "Shopping",
+    "pantry": "Pantry",
+    "history": "History",
+    "settings": "Settings"
+  },
+  "shopping": {
+    "title": "Shopping List",
+    "addPlaceholder": "What to buy?",
+    "addBtn": "Add",
+    "empty": "Nothing to buy. Great!"
+  },
+  "pantry": {
+    "title": "Pantry",
+    "empty": "No items in your pantry yet."
+  },
+  "history": {
+    "title": "History",
+    "empty": "No shopping history yet."
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "removeAds": "Remove Ads",
+    "resetOnboarding": "Reset Onboarding"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "onboarding": {
+    "title": "Kawaii-Kiler'e Hoş Geldiniz",
+    "subtitle": "Evinizin alışverişini ve kilerini birlikte kolayca yönetin.",
+    "continue": "Devam Et"
+  },
+  "paywall": {
+    "title": "Premium'a Geçin",
+    "subtitle": "Tüm özelliklere erişin ve reklamları kaldırın.",
+    "weekly": "Haftalık Paket",
+    "yearly": "Yıllık Paket",
+    "continue": "Devam Et",
+    "skip": "Geç"
+  },
+  "tabs": {
+    "shopping": "Alınacaklar",
+    "pantry": "Kiler",
+    "history": "Geçmiş",
+    "settings": "Ayarlar"
+  },
+  "shopping": {
+    "title": "Alınacaklar",
+    "addPlaceholder": "Ne alınacak?",
+    "addBtn": "Ekle",
+    "empty": "Alınacak bir şey yok. Harika!"
+  },
+  "pantry": {
+    "title": "Kiler",
+    "empty": "Kilerinizde henüz ürün yok."
+  },
+  "history": {
+    "title": "Geçmiş",
+    "empty": "Henüz alışveriş geçmişi yok."
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil",
+    "theme": "Tema",
+    "notifications": "Bildirimler",
+    "removeAds": "Reklamları Kaldır",
+    "resetOnboarding": "Tanıtımı Sıfırla"
+  },
+  "theme": {
+    "light": "Açık",
+    "dark": "Koyu",
+    "system": "Sistem"
+  }
+}
